@@ -1,3 +1,11 @@
+# NetflixClone
+
+O projeto consiste em criar uma réplica da página principal da Netflix, com suporte total para dispositivos móveis, utilizando a biblioteca React. Esta iniciativa visa oferecer aos usuários uma experiência semelhante à original da Netflix, permitindo que eles naveguem pelo catálogo de filmes e séries de forma intuitiva e responsiva em seus dispositivos móveis.
+
+![chrome_tSwEIHUnUx](https://github.com/mtguerson/netflixclone/assets/136662812/c07f0b4a-c8b3-46b0-94c7-930d7b730d9c)
+![chrome_ao3yzdwaD8](https://github.com/mtguerson/netflixclone/assets/136662812/6a4db992-b507-43bc-b18a-ca1c69dcfb57)
+![chrome_ctKHb3KkgV](https://github.com/mtguerson/netflixclone/assets/136662812/7f0d7e09-41c8-4280-ac22-5776bcdc0316)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
